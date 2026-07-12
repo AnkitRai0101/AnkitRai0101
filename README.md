@@ -24,11 +24,11 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
 
 ### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs"/>
 
 ### Tools
 
